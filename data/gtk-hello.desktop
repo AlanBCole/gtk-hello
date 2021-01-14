@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=GTK Hello
+GenericName=Hello World App
+Categories=Utility;Education;
+Exec=com.github.AlanBCole.gtk-hello
+Icon=Application-default-Icon
+Terminal=false
+Type=Application
+Keywords=Hello;World;Example
