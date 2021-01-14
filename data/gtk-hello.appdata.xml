@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Copyright 2021 Alan Cole <alantuneit@gmail.com> -->
+<component type="desktop">
+  <id>com.github.AlanBCole.gtk-hello</id>
+  <metadata_license>CC0</metadata_license>
+  <name>GTK Hello</name>
+  <summary>It says hello.</summary>
+  <description>
+    <p>Ok. It says "Hello World".</p>
+  </description>
+</component>
